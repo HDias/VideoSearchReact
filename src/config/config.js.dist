@@ -1,0 +1,7 @@
+var Config = {
+  youTube: {
+    key: 'string_key'
+  }
+}
+
+module.exports = Config;
